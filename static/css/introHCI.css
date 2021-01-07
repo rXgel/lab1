@@ -32,3 +32,20 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+img.thumbnail{
+   width: 600px;
+   height: 300px;
+   border: 1px solid #434343;
+}
+
+.contact-info{
+   font-size; 10pt;
+   color: #cccccc;
+}
+.project{
+   background-color: gray;
+   margin-left: 20px;
+		      
+}
+
