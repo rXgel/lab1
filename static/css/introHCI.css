@@ -34,9 +34,14 @@ body {
 }
 
 img.thumbnail{
-   width: 600px;
+   width: 700px;
    height: 300px;
    border: 1px solid #434343;
+}
+img.thumbnail1{
+   width: 500px;
+   height: 350px;
+  border: 1px solid #434343; 
 }
 
 .contact-info{
